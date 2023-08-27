@@ -1,0 +1,20 @@
+
+
+
+@media only screen and (max-width: 600px) {
+    .contactsContainer {
+        margin: 1rem 2rem;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+    .contactsContainer {
+        margin: 1rem 3rem;
+    }
+}
+
+@media only screen and (min-width: 993px) {
+    .contactsContainer {
+        margin: 2rem 15rem;
+    }
+}

@@ -1,0 +1,23 @@
+#root {
+  margin: 0;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.linkContact {
+  text-decoration: none;
+}
+
+.right-align {
+  float: right;
+}
+
+td,
+th {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
